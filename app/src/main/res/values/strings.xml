@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Onsurity</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="welcome_hint">Welcome to Onsurity. Please do sign in or sign up to proceed.</string>
+    <string name="log_out">Log out</string>
+    <string name="com_auth0_client_id">QCZu0plM0GsjuzWJCwn0FQ2nN2XlPeis</string>
+    <string name="com_auth0_domain">andronil.us.auth0.com</string>
+</resources>
